@@ -1,0 +1,2 @@
+# xerox_project
+XEROX SHOP MANAGEMENT SYSTEM
